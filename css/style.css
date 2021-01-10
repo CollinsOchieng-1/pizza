@@ -1,0 +1,9 @@
+#back-img{
+    background-image: url(../image/louis-hansel-shotsoflouis-j-ei4eH1knk-unsplash.jpg);
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 92vh;
+    text-align: center;
+    padding-top: 20%;
+}
