@@ -9,11 +9,19 @@
     
 }
 .menu{
-    background-color: tomato;
+    background-color: black;
     background-position: relative;
     background-image: url(../image/jarren-horrocks-nVFp3nTWAbA-unsplash.jpg);
     background-repeat: no-repeat;
     padding-left: 15%;
     background-size: contain;
-}
+    font: size 70%;
+    color: white;
 
+}
+.Halsey{
+font-style: italic;
+color: black;
+padding-top: -30%;
+font-size: 30px;
+}
