@@ -1,5 +1,6 @@
-#Collins pizza store
+# Poject name
 
+* COLLINS PIZZA STORE
 ## Author
 * Collins Ochieng
 
