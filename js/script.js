@@ -1,4 +1,4 @@
 function order () {
-    alert ("we have received your order. Thank you")
+    alert ("submit")
     alert ( "Delivery will be done immediately")
     }
